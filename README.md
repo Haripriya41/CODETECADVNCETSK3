@@ -1,5 +1,5 @@
 CODTECHTask3 Name:HARIPRIYA K T Company:CODTECH IT SOLUTIONS ID:CTO8DQR Domain:Data Science Duration:December12th,2024 to January 12th,2025 Mentor:Neela Santhosh PROJECT OVER VIEW 
-PROJECT:MOVIW SENTIMENT ANALYSIS
+PROJECT:MOVIE SENTIMENT ANALYSIS
 Project Description: Sentiment Analysis using LSTM
 Objective:
 The primary goal of this project is to build a machine learning model using deep learning techniques to classify user reviews as either positive (1) or negative (0). Sentiment analysis is an essential task in natural language processing (NLP) that helps businesses and researchers understand the emotions and opinions expressed in textual data.
