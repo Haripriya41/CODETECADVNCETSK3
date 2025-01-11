@@ -26,3 +26,8 @@ Compilation and Training:
 Model Evaluation:
    - The model is evaluated on the testing dataset to compute the test loss and accuracy.
    - Accuracy and loss trends during training and validation are visualized using Matplotlib.
+![image](https://github.com/user-attachments/assets/4d46ebac-9e91-4d84-9e8c-97207d5e49bd)
+![image](https://github.com/user-attachments/assets/fe5c881c-2a95-4c05-a842-8f0d796eab2c)
+![image](https://github.com/user-attachments/assets/7c51e11d-18b9-441a-bd31-df1637df7124)
+
+
